@@ -1,0 +1,14 @@
+# House Price Index
+
+## Data
+
+| File                                                                                             | Description                                                                                                 |
+| ------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------- |
+| house_idx.csv                                                                                    | [House Price Index data](https://fred.stlouisfed.org/series/CSUSHPINSA)                                     |
+| Consumer Price Index for All Urban Consumers- Rent of Primary Residence in U.S. City Average.csv | [CPI data (rent)](https://fred.stlouisfed.org/series/CUSR0000SEHA)                                          |
+| materialPCU44414441.csv                                                                          | [Producer Price Index data (material)](https://fred.stlouisfed.org/series/PCU44414441)                      |
+| MORTGAGE15US.csv                                                                                 | [15-Year Fixed Rate Mortgage Average in the United States](https://fred.stlouisfed.org/series/MORTGAGE15US) |
+| MORTGAGE30US.csv                                                                                 | [30-Year Fixed Rate Mortgage Average in the United States](https://fred.stlouisfed.org/series/MORTGAGE30US) |
+| OBMMIJUMBO30YF.csv                                                                               | [30-Year Fixed Rate Jumbo Mortgage in the United States](https://fred.stlouisfed.org/series/OBMMIJUMBO30YF) |
+| realGDPC1.csv                                                                                    | [Real Gross Domestic Product](https://fred.stlouisfed.org/series/GDPC1)                                     |
+| UNRATE.csv                                                                                       | [Civilian Unemployment Rate](https://fred.stlouisfed.org/series/UNRATE)                                     |
