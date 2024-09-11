@@ -14,3 +14,6 @@
 | UNRATE.csv                                                                                       | [Civilian Unemployment Rate](https://fred.stlouisfed.org/series/UNRATE)                                     |
 | EXPINF30YR.csv                                                                                   | [30-Year Breakeven Inflation Rate](https://fred.stlouisfed.org/series/EXPINF30YR)                           |
 | compensation.csv                                                                                 | [Compensation of Employees: Wages and Salary Disbursements](https://fred.stlouisfed.org/series/A576RC1)     |
+| PSAVERT.csv                                                                                      | [Personal Saving Rate](https://fred.stlouisfed.org/series/PSAVERT)                                           |
+| REAINTRATREARAT10Y.csv                                                                          | [10-Year Real Interest Rate](https://fred.stlouisfed.org/series/REAINTRATREARAT10Y)                         |
+| RPI.csv                                                                                          | [Real Personal Income](https://fred.stlouisfed.org/series/RPI)                                               |
