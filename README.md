@@ -12,3 +12,5 @@
 | OBMMIJUMBO30YF.csv                                                                               | [30-Year Fixed Rate Jumbo Mortgage in the United States](https://fred.stlouisfed.org/series/OBMMIJUMBO30YF) |
 | realGDPC1.csv                                                                                    | [Real Gross Domestic Product](https://fred.stlouisfed.org/series/GDPC1)                                     |
 | UNRATE.csv                                                                                       | [Civilian Unemployment Rate](https://fred.stlouisfed.org/series/UNRATE)                                     |
+| EXPINF30YR.csv                                                                                   | [30-Year Breakeven Inflation Rate](https://fred.stlouisfed.org/series/EXPINF30YR)                           |
+| compensation.csv                                                                                 | [Compensation of Employees: Wages and Salary Disbursements](https://fred.stlouisfed.org/series/A576RC1)     |
